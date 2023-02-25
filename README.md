@@ -2,11 +2,11 @@
 
 Eğitim kavram haritası mantığında kısa bilgiler vererek devam etmektedir.
 
-# Apı Nedir?
+# 1. Apı Nedir?
 
 İki uygulamanın birbiriyle iletişim kurmasına olanak sağlayan bir yazılım aracı olan **Uygulama Programlama Arayüzü**’nün kısaltılmasıdır.
 
-# Apı Kullanım Yerleri
+# 2. Apı Kullanım Yerleri
 
 - Uygulama Sunucuları
 - Bulut kaynakları
@@ -15,13 +15,13 @@ Eğitim kavram haritası mantığında kısa bilgiler vererek devam etmektedir.
 - Database
 - Web Uygulamaları
 
-# Apı Kullanım Alanı Ve Amaçları
+# 3. Apı Kullanım Alanı Ve Amaçları
 
 - Web ve uygulama geliştiricileri kulanır
 - Farklı servislerin özelliklerinden yararlanma
 - Süreçleri çabuk ve programlı bir hale getirir.
 
-# Günlük Hayatta Apı Örnekleri
+# 4. Günlük Hayatta Apı Örnekleri
 
 - Google geliştirici API’ları
 - Google haritalar
@@ -31,44 +31,44 @@ Eğitim kavram haritası mantığında kısa bilgiler vererek devam etmektedir.
 - Google translate vb.
 - Twitter ve facebook API’ları
 
-# Apı Tipleri Nelerdir?
+# 5. Apı Tipleri Nelerdir?
 
 - Soap Apı
 - Rest Apı
 
-# Soap Apı
+# 6. Soap Apı
 
 - SOAP(Basit Nesne Erişim Protokolu) temel anlamda, internet üzerinden belirli bilgileri yada mesajları aktarma protokoludur.
 - HTTP
 - TCP/IP
 - SOAP mesajları xml formatlıdır.
 
-# Rest Apı
+# 7. Rest Apı
 
 - REST client-server arasında hıxlı ve kolay şekilde iletişim kurulmasını sağlayan bir servis yapısıdır.
 - Servis yönetimli mimari üzerine oluşturulan yazılımlarda kullanılan bir veri transfer yöntemidir.
 - HTTP üzerinde çalışır ve minimum içerikle veri alıp gönderdiğinden hazlıdır.
 - Genellikle XML veya JSON verileri ile uygulamalar arası iletişimi sağlar.
 
-# Web Servis Kavramı
+# 8. Web Servis Kavramı
 
 - Web servis iki makinenin bir ağ üzerinden birbiri ile iletişim kurmak için kulandığı bir yöntemdir.
 - Web servislerine sadece ağ üzerinden erişilebilir.
 - Web servisler internet üzerinden haberleşirler.
 - Web servisler kullanılırken HTTP metotlarına başvurur.
 
-# Web Servis Kullanım Şekilleri
+# 9. Web Servis Kullanım Şekilleri
 
 - Sürekli uygulama üzerinde yapılan işler
 - Farklı uygulamalar ile veri alışverişi
 
-# Web Servis Kullanılan Standartlar
+# 10. Web Servis Kullanılan Standartlar
 
 - SOAP
 - UDDI
 - WSDL
 
-# Apı ve Web Servis İlişkisi
+# 11. Apı ve Web Servis İlişkisi
 
 - API
     - Her api web servis değildir.
@@ -77,7 +77,7 @@ Eğitim kavram haritası mantığında kısa bilgiler vererek devam etmektedir.
     - Her web servis bir Api dir.
     - Web servisleine her zaman ağ üzerinden erişilebilir.
     
-# Soap Servis Nedir?
+# 12. Soap Servis Nedir?
 
 - HTTP ve TCP protokol kullanımı.
 - Sadece XML verileri ile işlem yapabilirsiniz.
@@ -87,7 +87,7 @@ Eğitim kavram haritası mantığında kısa bilgiler vererek devam etmektedir.
     3. Body
     4. Fault
     
-# WSDL Kavramı
+# 13. WSDL Kavramı
 
 - Web servicez description language
 - Elementler
@@ -98,12 +98,12 @@ Eğitim kavram haritası mantığında kısa bilgiler vererek devam etmektedir.
     - Port
     - Service
     
-# Rest
+# 14. Rest
 
 - Representational state transfer temsili duum transferi
 - Http durum kodları   url
 
-# Restful Servis Gereksinimleri
+# 15. Restful Servis Gereksinimleri
 
 - Uniform interface
 - Clinet-server
@@ -112,7 +112,7 @@ Eğitim kavram haritası mantığında kısa bilgiler vererek devam etmektedir.
 - Layered system
 - Code on demand
 
-# Rest Servis http Metodları
+# 16. Rest Servis http Metodları
 
 - Get
 - Post
@@ -121,11 +121,11 @@ Eğitim kavram haritası mantığında kısa bilgiler vererek devam etmektedir.
 - Delete
 - Options
 
-# Rest Servis http Sonuç Durum Kodları
+# 17. Rest Servis http Sonuç Durum Kodları
 
 - HTTP Status Code
 
-# Sopa Ve Rest Arasındaki Farklar
+# 18. Sopa Ve Rest Arasındaki Farklar
 
 1. Güvenlik
 2. Format
@@ -134,13 +134,13 @@ Eğitim kavram haritası mantığında kısa bilgiler vererek devam etmektedir.
 5. Tasarım
 6. Kullanım
 
-# API Testi
+# 19. API Testi
 
 - Uygulamalar arasında veri alışverinini test edilmesi ve işlemlerin verimliliğinin gözlemlenmesi.
 - Yazılıma test ekipleri tarafından kapsamlı testler yapılır.
 - Önem derecesi yüksek seviyede yapılan işlerdir.
 
-# Neden API Testi?
+# 20. eden API Testi?
 
 - İşlevsellik
 - Performans
@@ -148,9 +148,9 @@ Eğitim kavram haritası mantığında kısa bilgiler vererek devam etmektedir.
 - Güvenlik
 - Kullanılabilirlik
 
-# API Testinin Önemi
+# 21. API Testinin Önemi
 
-## Etkileri
+## 21.1 Etkileri
 
 > İşlevselliği doğrulamak
 > 
@@ -164,7 +164,7 @@ Eğitim kavram haritası mantığında kısa bilgiler vererek devam etmektedir.
 > Kalitenin artırılması
 
 
-## API Testinin Avantajları Ve Zorlukları
+## 21.2 API Testinin Avantajları Ve Zorlukları
 
 - Giriş parametreleri
 - Beklenen sonuç çıktısı
@@ -173,7 +173,7 @@ Eğitim kavram haritası mantığında kısa bilgiler vererek devam etmektedir.
 - Hata yönetimi
 - Dönen cevabı formatlama
 
-# API Testini Faydaları
+# 22. API Testini Faydaları
 
 - Cevaplar ve veriler doğrulanır
 - Kontrollü yönetilebilir
@@ -181,7 +181,7 @@ Eğitim kavram haritası mantığında kısa bilgiler vererek devam etmektedir.
 - Kısa sürede tamamlanabilir.
 - Kısa zamanda daha fazla hata bulunur ve kalite arttırılır.
 
-# API Testinin Zorlukları
+# 23. API Testinin Zorlukları
 
 - İş uygulama mantığı bilgisi
 - Karmaşık protokoller
@@ -189,12 +189,12 @@ Eğitim kavram haritası mantığında kısa bilgiler vererek devam etmektedir.
 - Test veri yönetimi
 - Teknik bilgileri içeren envanter takibi
 
-# API Testi Otomasyonu
+# 24. API Testi Otomasyonu
 
 - Önceden tahmin edilen sonuçlara gerçek sonuçların kıyaslanması ile test koşumlarının kontrol edilmesinin sağlanması.
 - Manuel bir müdahale gerekmeden testlerin hızlı kosulması sağlanır.
 
-# API Testi Test Otomasyon
+# 25. API Testi Test Otomasyon
 - Önce başarılı case senaryoları
 - Hızlı olduğundan emin olmak
 - Süreklilik
@@ -202,14 +202,14 @@ Eğitim kavram haritası mantığında kısa bilgiler vererek devam etmektedir.
 - Tutarlı olması
 - Gereksinim değişikleri
 
-# API Testi Otomasyon Kazançları
+# 26. API Testi Otomasyon Kazançları
 
 1. Zaman maliyeti
 2. İş yükü
 3. Bakım
 4. Verimlilik
 
-# API Testi Tipleri
+# 27. API Testi Tipleri
 
 1. ntegrasyon testi
 2. Yük testi
@@ -219,37 +219,37 @@ Eğitim kavram haritası mantığında kısa bilgiler vererek devam etmektedir.
 6. Fonksiyonel test
 7. Stres testi
 
-# Entegrasyon Testi
+# 28. Entegrasyon Testi
 
 Birbirinden bağımsız olarak tes edilmil olan iki yazılım ürünün birbirine bağlanması, birbiri arasına veri aktarımının sağlanması için birleştirilen mödüllerin test edilmesidir.
 
-# Yük Testi
+# 29. Yük Testi
 
 Belirlenen ölcüler doğrultusunda sisteme uygulanan yük altında sistem içerisinde ortaya çıkabilecek darboğazları ortaya çıkarmak için yapılan testtir.
 
-# Regresyon Testi
+# 30. Regresyon Testi
 
 Yapılan kodsal değişiklikler sonucunda sistemde değişiklik yapılan ve değişiklik yapılmayan alanlarda varsa yeni hataları bulmak için yapılan test çeşididir.
 
-# Kullanıcı Arayüz Testi
+# 31. Kullanıcı Arayüz Testi
 
 API’ları da kapsayan uçtan uca entegrasyon testlerinin bir parçası olarak gerçekleştirilen daha büyük işlem ekransal GUI öğelerinin doğrulamasına olanak tanır.
 
-# Güvenlik Testi
+# 32. Güvenlik Testi
 
 bilişim sistemlerindeki mantık hataları ve zafiyerleri tespit ederek, söz konusu güvenlik açıklıklarının kötü niyetli kişiler tarafından isitismar edilmesini önlemek ve sistemleri daha güvenli hale getirmek amacıyla yapılan testtir.
 
-# Fonksiyonel Test
+# 33. Fonksiyonel Test
 
 - Sistemin veya yazılımın özelliklerini ve işlevselliğini test etmek için kullanılan tekniktir.
 - Fonksiyonel testlerde temel olarak bileşen veya sistem fonksiyonlarının testleri yapılır.
 - 
-# Stres Testi
+# 34. Stres Testi
 
 - Belirli bir sistemin, kritik bir alyapının veya varlığının, kararlığını belirlemek için kullanılar kısıtlı olarak yoğun veya kapsamlı bir test şeklidir.
 - Sonuçları gözlemek için normal çalışma kapasitesinin ötesinde, genellikle bir kırılma noktasına kadar test yapılmasını içerir.
 
-# API Test Araçları
+# 35. API Test Araçları
 
 1. SoapUI
 2. Rostman
@@ -257,7 +257,7 @@ bilişim sistemlerindeki mantık hataları ve zafiyerleri tespit ederek, söz ko
 4. Rest-Assured
 5. Karate DSL
 
-# SOAP UI Test Araçları
+# 36. SOAP UI Test Araçları
 
 - Genel olarak web servisleri kontrol etmek, herhangi bir web servisi çağırmak, web servisi sanallaştırmak ya da fonksiyonel test yapmak için kullanılır.
 - Özellikle web servis entegrasyon fazlasıyşa işe yarayan bir yapıya sahiptir.
@@ -268,14 +268,14 @@ bilişim sistemlerindeki mantık hataları ve zafiyerleri tespit ederek, söz ko
 5. AMF
 6. JDBC
 
-# yazar:
+# 37. yazar:
   
   **Ömer Kılıç**
  
-#  Yayınlanma Tarihi:
+#  38. Yayınlanma Tarihi:
   
   **24.02.2023**
   
-#  Yazar İletişim/Bilgi/Özgeçmiş:
+#  39. Yazar İletişim/Bilgi/Özgeçmiş:
   
   **http://omerkilic.rf.gd/**
